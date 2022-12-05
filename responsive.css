@@ -1,0 +1,24 @@
+@media screen and (max-width: 980px){
+    .logo{
+        width:100%;
+        float: none;
+        text-align: center;
+
+
+    }
+    .login{
+        width:100%;
+        float: none;
+        margin: 15px auto;
+        float: none;
+    }
+    .login form{
+        float: none;
+    }
+}
+@media screen and (max-width: 768px) {
+    .login .email,.login .password,.login .submit{
+        float: none;
+        margin-right: 0px;
+    }
+}
